@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @SINCE_14C5
 
 from .bot import Bot
 
